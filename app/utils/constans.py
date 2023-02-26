@@ -1,0 +1,3 @@
+APP_TITLE = "My Application"
+APP_VERSION = "1.0.0"
+MAX_RESULTS = 100
